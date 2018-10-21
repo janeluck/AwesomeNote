@@ -3,6 +3,8 @@ Welcome to the AwesomeNote wiki!
 
 + JavaScript
     - [通过requestAnimationFrame改善动画效果](https://github.com/janeluck/AwesomeNote/wiki/Improving-Experience-By-RequestAnimationFrame)
+    - [JavaScript异步编程](https://github.com/janeluck/AwesomeNote/wiki/JavaScript-Asynchronous-Programming)
+   
 + CSS
     - [CSS思维](https://github.com/janeluck/AwesomeNote/wiki/Thinking-In-Css)
     - [Height百分比计算规则](https://github.com/janeluck/AwesomeNote/wiki/Height-By-Percentage)
