@@ -4,7 +4,7 @@ Welcome to the AwesomeNote wiki!
 + JavaScript
     - [通过requestAnimationFrame改善动画效果](https://github.com/janeluck/AwesomeNote/wiki/Improving-Experience-By-RequestAnimationFrame)
     - [JavaScript异步编程](https://github.com/janeluck/AwesomeNote/wiki/JavaScript-Asynchronous-Programming)
-    - [Promise简易实现](https://github.com/janeluck/AwesomeNote/wiki/JavaScript-Asynchronous-Programming)
+    - [从零实现Promise](https://github.com/janeluck/AwesomeNote/wiki/Building-Promise-From-Scratch)
    
 + CSS
     - [CSS思维](https://github.com/janeluck/AwesomeNote/wiki/Thinking-In-Css)
