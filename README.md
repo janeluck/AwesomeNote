@@ -24,6 +24,8 @@ Welcome to the AwesomeNote wiki!
     - [Node多版本管理](https://github.com/janeluck/AwesomeNote/wiki/Node-Version-Management)
 + Electron
     - [Electron的通信封装](https://github.com/janeluck/AwesomeNote/wiki/Communication-In-Electron)
++ Git
++ Unix
 + 数据结构与算法
 + 离散数学
 
