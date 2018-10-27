@@ -1,1 +1,1 @@
-../AwesomeNote.wiki/Home.md
+Home.md
