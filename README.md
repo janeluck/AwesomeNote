@@ -24,6 +24,7 @@ Welcome to the AwesomeNote wiki!
 + Lodash
 + Node
     - [Node多版本管理](https://github.com/janeluck/AwesomeNote/wiki/Node-Version-Management)
+    - [Node包版本号的语义化管理](https://github.com/janeluck/AwesomeNote/wiki/Node-Package-Version)
 + Electron
     - [Electron的通信封装](https://github.com/janeluck/AwesomeNote/wiki/Communication-In-Electron)
 + Git
