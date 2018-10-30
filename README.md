@@ -31,8 +31,7 @@ Welcome to the AwesomeNote wiki!
 + Unix
 + 计科基础
   - [进制转换](https://github.com/janeluck/AwesomeNote/wiki/Number-System-Conversion)
-  - [中序表达式转逆波兰表达式]
-  (https://github.com/janeluck/AwesomeNote/wiki/Conversion-Of-Infix-Expressions-To-Postfix.md)
+  - [中序表达式转逆波兰表达式](https://github.com/janeluck/AwesomeNote/wiki/Conversion-Of-Infix-Expressions-To-Postfix)
 + 数据结构与算法
   - [分治法求最短编辑距离](https://github.com/janeluck/AwesomeNote/wiki/A-Divide-And-Conquer-Procedure-For-Finding-Minimum-Edit-distance)
   
