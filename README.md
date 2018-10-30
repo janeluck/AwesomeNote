@@ -5,6 +5,7 @@ Welcome to the AwesomeNote wiki!
   - [从零实现 Promise](https://github.com/janeluck/AwesomeNote/wiki/Building-Promise-From-Scratch)
   - [JavaScript 的相等性判断](https://github.com/janeluck/AwesomeNote/wiki/Equality-Comparisons-In-JavaScript)
   - [通过 requestAnimationFrame 改善动画效果](https://github.com/janeluck/AwesomeNote/wiki/Improving-Experience-By-RequestAnimationFrame)
+  - [常用正则符号](https://github.com/janeluck/AwesomeNote/wiki/RegExp)
 
 <!--   - [JavaScript 异步编程](https://github.com/janeluck/AwesomeNote/wiki/JavaScript-Asynchronous-Programming)  -->
 - CSS
