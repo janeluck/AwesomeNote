@@ -2,10 +2,10 @@ Welcome to the AwesomeNote wiki!
 
 
 + JavaScript
-    - [通过requestAnimationFrame改善动画效果](https://github.com/janeluck/AwesomeNote/wiki/Improving-Experience-By-RequestAnimationFrame)
     - [JavaScript异步编程](https://github.com/janeluck/AwesomeNote/wiki/JavaScript-Asynchronous-Programming)
     - [从零实现Promise](https://github.com/janeluck/AwesomeNote/wiki/Building-Promise-From-Scratch)
-    - [JavaScript](https://github.com/janeluck/AwesomeNote/wiki/Building-Promise-From-Scratch)
+    - [JavaScript的相等性判断](https://github.com/janeluck/AwesomeNote/wiki/Equality-Comparisons-In-JavaScript)
+    - [通过requestAnimationFrame改善动画效果](https://github.com/janeluck/AwesomeNote/wiki/Improving-Experience-By-RequestAnimationFrame)
    
 + CSS
     - [CSS思维](https://github.com/janeluck/AwesomeNote/wiki/Thinking-In-Css)
@@ -13,9 +13,9 @@ Welcome to the AwesomeNote wiki!
     - [定位体系](https://github.com/janeluck/AwesomeNote/wiki/Display-Float-Position)
     - [清除浮动](https://github.com/janeluck/AwesomeNote/wiki/Clear-Float)
     - [Z方向的层叠级别](https://github.com/janeluck/AwesomeNote/wiki/Stack-Level)
-    - [ ] [常用布局]()
+<!--     - [ ] [常用布局]()
     - [ ] [font]()
-    - [ ] [svg]()
+    - [ ] [svg]() -->
 + Browser
 + Http
 + React
