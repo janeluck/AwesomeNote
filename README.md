@@ -6,6 +6,7 @@ Welcome to the AwesomeNote wiki!
   - [JavaScript 的相等性判断](https://github.com/janeluck/AwesomeNote/wiki/Equality-Comparisons-In-JavaScript)
   - [通过 requestAnimationFrame 改善动画效果](https://github.com/janeluck/AwesomeNote/wiki/Improving-Experience-By-RequestAnimationFrame)
   - [常用正则符号](https://github.com/janeluck/AwesomeNote/wiki/RegExp)
+  - [JavaScript 正则相关api使用搜集整理](https://github.com/janeluck/AwesomeNote/wiki/Api-About-RegExp)
 
 <!--   - [JavaScript 异步编程](https://github.com/janeluck/AwesomeNote/wiki/JavaScript-Asynchronous-Programming)  -->
 - CSS
