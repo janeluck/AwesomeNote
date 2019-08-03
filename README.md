@@ -40,6 +40,7 @@ Welcome to the AwesomeNote wiki!
 - 数据结构与算法
 
   - [分治法求最短编辑距离](https://github.com/janeluck/AwesomeNote/wiki/A-Divide-And-Conquer-Procedure-For-Finding-Minimum-Edit-distance)
+  - [桶排序](https://github.com/janeluck/AwesomeNote/wiki/Bucket-Sort)
 
 
 - Database
